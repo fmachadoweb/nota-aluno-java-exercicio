@@ -9,9 +9,9 @@
     <img src="https://github.com/othneildrew/Best-README-Template/raw/master/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">OPERADORES EM JAVA - NOTA ALUNO (EXERCÍCIOS)</h3>
+  <h3 align="center">OPERADORES EM JAVA - NOTA ALUNO (EXERCÍCIO)</h3>
   
-  <p align="center">Exercício em Java onde se coloca a nota do aluno, se for maior ou igual a 70 ele mostra que o aluno foi aprovado, se for menor que 70 mostra que o aluno foi reprovado.. </p>
+  <p align="center">Exercício feito em Java onde se coloca a nota do aluno, se for maior ou igual a 70 ele mostra que o aluno foi aprovado, se for menor que 70 mostra que o aluno foi reprovado.. </p>
   
   <p align="center">Curso <code>Let's Code.</code> </p>
 
